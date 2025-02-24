@@ -6,3 +6,4 @@ resource "aws_instance" "imported" {
         "Purpose": "terraform-practice"
     }
 }
+
